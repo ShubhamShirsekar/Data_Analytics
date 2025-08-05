@@ -17,7 +17,7 @@ Welcome to my Banking, Financial Services & Insurance (BFSI) analytics portfolio
 - **Tools:** Python (Pandas, Scikit-learn, Matplotlib, Seaborn), Power BI
 
 ### Day 3: IPL Cricket Analytics - Ball-by-Ball Analysis
-- **File:** `ipl_analysis.py`
+- **File:** `Day3_IPL_v2.ipynb`
 - **Dataset:** [IPL Complete Dataset (2008-2020)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020) - 260,921 deliveries
 - **Domain:** Sports Analytics (Cricket/IPL)
 - **Modules Covered:**
@@ -37,6 +37,32 @@ Welcome to my Banking, Financial Services & Insurance (BFSI) analytics portfolio
   - Economic bowling analysis and strike rate calculations
 - **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 - **Data Attribution:** Dataset by [Patrick B](https://www.kaggle.com/patrickb1912) on Kaggle
+
+### Day 4: Healthcare Analytics - Comprehensive Patient Data Analysis
+
+- **File:** `Day4_Healthcare.ipynb`
+- **Dataset:** [Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) - 55,500 patients
+- **Domain:** Healthcare Analytics
+- **Modules Covered:**
+  - Time Series Analysis (admission patterns, seasonal trends)
+  - Machine Learning Models (predictive analytics)
+  - Network Analysis (healthcare ecosystem relationships)
+  - Interactive Dashboard Creation (executive & operational dashboards)
+- **Skills Demonstrated:** 
+  - Large-scale healthcare data manipulation (55K+ patient records)
+  - Advanced statistical modeling and time series forecasting
+  - Machine learning for healthcare predictions
+  - Network analysis for healthcare ecosystem insights
+  - Executive dashboard development
+  - Real-world medical data quality handling
+- **Key Insights:**
+  - Peak admission patterns and seasonal disease trends
+  - Length of stay prediction for bed management optimization
+  - High-cost patient identification for financial planning
+  - Doctor-hospital network analysis for resource allocation
+  - Insurance provider performance and cost optimization
+- **Data Attribution:** Dataset by [Prasad Patil](https://www.kaggle.com/prasad22) on Kaggle
+ 
   
 ## About Me
 Data Analytics student at KEDGE Business School.
