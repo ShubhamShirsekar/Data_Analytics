@@ -1,0 +1,33 @@
+# Data Analysis and Manipulation
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Data Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Statistical Analysis
+scipy>=1.10.0
+
+# Machine Learning and Clustering
+scikit-learn>=1.2.0
+
+# Additional utilities
+warnings  # Built-in module, no installation needed
+itertools  # Built-in module, no installation needed
+
+# Optional: Enhanced geospatial analysis (if you want to use real maps)
+# folium>=0.14.0
+# geopandas>=0.12.0
+# plotly>=5.13.0
+
+# Optional: Interactive visualizations
+# plotly>=5.13.0
+# bokeh>=3.0.0
+
+# Optional: Advanced time series analysis
+# statsmodels>=0.13.0
+
+# Development and Testing
+jupyter>=1.0.0
+ipython>=8.0.0
