@@ -1,6 +1,6 @@
-# BFSI-Analytics-Portfolio
+# Data-Analytics-Portfolio
 
-Welcome to my Banking, Financial Services & Insurance (BFSI) analytics portfolio, developed during my Masters in Data Analytics for Business at KEDGE Business School.
+Welcome to my Data analytics portfolio.
 
 ## Projects
 
