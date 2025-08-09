@@ -62,8 +62,27 @@ Welcome to my Banking, Financial Services & Insurance (BFSI) analytics portfolio
   - Doctor-hospital network analysis for resource allocation
   - Insurance provider performance and cost optimization
 - **Data Attribution:** Dataset by [Prasad Patil](https://www.kaggle.com/prasad22) on Kaggle
+
+### Day 5: Samsung Mobile Sales Analytics
+
+- **File:** `Day5_MobileSales.ipynb`
+- **Dataset:** [SamsungMobilePhones](https://www.kaggle.com/datasets/datatechexplorer/samsung-mobile-sales-dataset) - 1,000 records
+- **Domain:** Sales Analytics
+- **Modules Covered:**
+  - Cohort Analysis & Product Lifetime Value
+  - Temporal Affinity - Revenue Based
+  - Geospatial Sales Analysis - Choropleth Visualizations
+  - Temporal Choropleth Analysis and Visualization
+- **Skills Demonstrated:** 
+  - Advanced Analytics & Business Intelligence Built regional cohort analysis to track market trends, identify top segments, and guide investment strategies.
+  - Geospatial Data Analysis & Visualization: Developed choropleth maps to show regional performance, infrastructure maturity, and market readiness.
+  - Product Portfolio & Temporal Analytics: Created affinity analysis and lifetime value models to reveal product trends, correlations, and portfolio opportunities.
+- **Key Insights:**
+  - Infrastructure-Performance Link: Regions with high 5G infrastructure scored 67% better, proving infrastructure drives market success and should lead expansion plans.
+  - Product Lifecycle Timing: Products with strong temporal affinity (>0.7) peak in the same quarter, revealing seasonality patterns to optimize launches and inventory.
+  - Market Classification: Defined four regional types—Premium, Infrastructure Leaders, Demand Ready, Developing—to guide resource allocation and market entry.
+- **Data Attribution:** Dataset by [DataTechExplorer](https://www.kaggle.com/datatechexplorer) on Kaggle
  
-  
 ## About Me
 Data Analytics student at KEDGE Business School.
 
