@@ -29,3 +29,7 @@ dist/
 
 # Misc
 *.log
+
+# Local data - do not track
+Day6/EU_StartupMails_09Aug/
+Day6/EU_StartupMails_09Aug/**
