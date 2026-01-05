@@ -1,0 +1,5 @@
+segment_name,age,balance,estimated_clv,risk_score,deposit,campaign_cost,campaign_roi
+Budget_Conscious,40.9,1157.17,854.47,9.49,16.63,631.93,42.36
+Mature_Investors,40.08,1017.87,20.36,8.35,0.0,111.73,-100.0
+Premium_Clients,59.17,3941.18,4466.27,2.35,87.75,94.36,6236.82
+Young_Savers,35.07,1227.08,4959.03,5.06,98.69,102.75,6587.36
