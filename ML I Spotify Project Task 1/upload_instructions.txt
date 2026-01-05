@@ -1,0 +1,14 @@
+Upload instructions (manual):
+
+1. Ensure your Git client is configured to respect `.gitignore` (it will exclude `.venv` and temp files).
+2. From the project root, review files and then upload the following folder contents to GitHub under `ML_Spotify_Project/`:
+   - `Spotify_project_Task1_v2.ipynb`
+   - `executive_summary.txt`
+   - `final_project_report.txt`
+   - `reconstructed_playlists/` (CSV files)
+   - `unlabeled_predictions.csv`, `low_confidence_predictions.csv`
+   - `mixed_playlist.csv`
+   - `quality_validation_report.txt`
+   - `README.md`, `requirements.txt`, `.gitignore`
+
+3. I did not remove any user files — only added helper files for an upload. If you want me to create a commit-ready branch instead, say so.
