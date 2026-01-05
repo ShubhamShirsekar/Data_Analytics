@@ -1,0 +1,101 @@
+name,artist,album,predicted_user,predicted_year,user_confidence,year_confidence,overall_confidence
+"Variations on a Polish Theme, Op. 10: No. 5 Andantino",Karol Szymanowski,"Szymanowski: Piano Works, Vol. 2",beta,2025,0.9973483606557377,0.9998962643984856,0.9986223125271116
+For J√≥hann,V√≠kingur √ìlafsson,Bach Reworks (Pt. 1),alpha,2019,0.25778609967977867,0.9255468922259816,0.5916664959528801
+"Concerto For Piano And Orchestra In G, Second Movement",Herbie Hancock,Gershwin's World,alpha,2019,0.25197259199002003,0.9900086161899703,0.6209906040899952
+This Reminds You - Satie Remix,Remy Van Kesteren,Shadows,alpha,2019,0.2497315485479211,0.9856892335666798,0.6177103910573004
+Sull Lull,Jan Garbarek,Madar,alpha,2019,0.2553693895870736,0.9929953069323204,0.624182348259697
+Joy,Avishai Cohen,Shifting Sands,alpha,2019,0.23524961578711232,0.7831962328601921,0.5092229243236522
+Chilly in F Minor,Chilly Gonzales,√úber Alles Director's Cut,alpha,2019,0.26758058717795086,0.9797920124365906,0.6236862998072707
+Emotional Storm,Avishai Cohen,Two Roses,alpha,2019,0.24273154854792106,0.7762284026142537,0.5094799755810874
+I Think of You,Scott Hamilton,Classics,epsilon,2019,0.4788444677131786,0.9882069615257854,0.733525714619482
+Extremely Cool,Chuck E. Weiss,Extremely Cool,gamma,2019,0.23147487864049154,0.9132294628889759,0.5723521707647337
+Riders on the Storm,Lisa Bassenge,Canyon Songs (Bonus Track Version),alpha,2019,0.22583333333333333,0.9858025001079294,0.6058179167206313
+Le jardin des F√©es,Paolo Fresu,Mare Nostrum III,beta,2025,0.997995407577497,0.6522232970464619,0.8251093523119795
+Annobon,Henri Texier,Carnet de routes,alpha,2019,0.250576010518912,0.974784627662933,0.6126803190909225
+Good Morning Mumbai (To Zakir),Dhafer Youssef,Sounds Of Mirrors,delta,2021,0.49795327841011167,0.8975565181072955,0.6977548982587036
+El Ciego,Paolo Fresu,P60LO FR3SU,beta,2025,0.4281559295202698,0.7133749842211959,0.5707654568707329
+My Funny Valentine (feat. Herbie Hancock),Sting,My Funny Valentine (feat. Herbie Hancock),alpha,2019,0.24473154854792106,0.7880432116441404,0.5163873800960307
+Sang M√™l√©,Eddy Louiss,Face to Face,alpha,2019,0.24625,0.9663818600157289,0.6063159300078644
+Grauer Beton - Lambert Rework,Lambert,Grauer Beton (Lambert Rework),alpha,2019,0.23524961578711232,0.8947901860755851,0.5650199009313487
+Armando's Rhumba,Steve Gadd,Armando's Rhumba,alpha,2019,0.260202265748581,0.8910048299373966,0.5756035478429888
+"Gli uccelli (The Birds), P. 154: V. Il cucu: Allegro",Ottorino Respighi,"Respighi: Suite in G Major, P. 58, Trittico botticelliano, The Birds, & Serenata",beta,2025,0.997319611725238,0.9998750938345313,0.9985973527798846
+Tour de France (Etape 1) - 2009 Remaster,Kraftwerk,Tour de France (2009 Remaster),alpha,2019,0.2322442528735632,0.9791737164740821,0.6057089846738226
+Concussion - Live,Delvon Lamarr Organ Trio,Live In Loveland!,alpha,2019,0.24421741726373253,0.593715662801793,0.4189665400327628
+Maryan,Robert Wyatt,Shleep,alpha,2019,0.238625,0.9859580079307229,0.6122915039653615
+La For√™t,Chansons Pour Enfants B√©b√© TaTaTa,B√©b√© M√©ditation,alpha,2019,0.24688633082238426,0.6225106277468666,0.43469847928462546
+All Night,Lemongrass,Imagine,alpha,2019,0.22461027440658962,0.9872033989319358,0.6059068366692627
+Orph√©e & Eurydice: M√©lodie - Arranged by Charl du Plessis,Charl du Plessis Trio,Baroqueswing Vol. II,alpha,2019,0.2540686697600423,0.9807335751209175,0.6174011224404798
+√âternelle - Version Lieu Unique,La Souterraine,ALLOPOP,alpha,2019,0.23626133082238426,0.8274701801399132,0.5318657554811488
+Blues sur Seine,Paolo Fresu,Mare Nostrum III,beta,2025,0.9976306729264476,0.999347271991229,0.9984889724588383
+Canto De Ossanha,Jonathan Kreisberg,One,alpha,2019,0.2558305871779509,0.9931365572249471,0.624483572201449
+No Woman No Cry,Monty Alexander,"Harlem-Kingston Express (Live at Dizzy's Club Coca-Cola, NYC)",alpha,2019,0.23199999999999998,0.979058421062849,0.6055292105314245
+Minstrels,Claude Debussy,Debussy‚Ä¶ et le jazz (Bonus Track Version),beta,2021,0.43,0.9750176717826035,0.7025088358913018
+Why Can't We Live Together,Various Artists,Turntables on the Hudson Lunar New Year 4707,alpha,2021,0.23031238860757153,0.4804536145362078,0.3553830015718896
+Tadow - Edit,Masego,Tadow,alpha,2019,0.22830075059706584,0.9515543701162181,0.589927560356642
+Welcome 2 America,Prince,Welcome 2 America,alpha,2019,0.23245749821617834,0.7473056958562165,0.48988159703619744
+"Ningu√©m, Ningu√©m",Melody Gardot,Sunset In The Blue,beta,2022,0.43528195567516353,0.9997440944354469,0.7175130250553052
+Sweet & Slow,Nigel Kennedy,Recital,alpha,2019,0.24491666666666667,0.9894298893047623,0.6171732779857144
+Il Pleure (At The Turn Of The Century),The Art Of Noise,The Seduction Of Claude Debussy,alpha,2019,0.23886353041290515,0.9314108775456296,0.5851372039792674
+Sicilyan Dream,Enrico Pieranunzi,M√©nage √† trois,beta,2025,0.4228483606557377,0.9998569187940627,0.7113526397249001
+Children¬¥s World,Maceo Parker,Roots Revisited,alpha,2019,0.24036364246063685,0.9365434272227973,0.588453534841717
+Frevo,Camille Bertault,Playground,alpha,2019,0.24879800444168335,0.8101017279255557,0.5294498661836196
+"La plus que lente, L. 121 (Arr. Roques)",Alexandre Tharaud,Debussy & Poulenc: Cello Sonatas,alpha,2019,0.26909759199002004,0.9824633196873549,0.6257804558386875
+Lullaby For Helene,Bill Evans,The Complete Bill Evans On Verve,beta,2023,0.42674311926605507,0.9997766204090448,0.71325986983755
+Rain,Kenny Barron & Dave Holland,The Art Of Conversation,alpha,2019,0.2534735063409273,0.9883369275254785,0.6209052169332029
+Cry Me A River,Ray Brown Trio,Soular Energy,alpha,2019,0.2427908621229517,0.960048018236019,0.6014194401794853
+Love Land - Live,Delvon Lamarr Organ Trio,Love Land (Live),alpha,2019,0.252416282453779,0.85273346769021,0.5525748750719945
+Gymnop√©die No. 1,Cyrus Chestnut,Kaleidoscope,alpha,2019,0.7405249454490124,0.9826093449920812,0.8615671452205468
+Kiyakiya (Key-Ya-Key-Ya),Babatunde Olatunji,Drums Of Passion,gamma,2019,0.22227272727272726,0.947182668734416,0.5847276980035716
+Journey to Infinity,Mandharu,Universal Knowledge,alpha,2019,0.2478565485479211,0.9064845100796001,0.5771705293137606
+Shhh / Peaceful,Miles Davis,In A Silent Way,gamma,2019,0.22572727272727275,0.5789019009656192,0.402314586846446
+Deep Sea,Daevid Allen,Stroking the Tail of the Bird,alpha,2019,0.24013925865668673,0.9907416682906277,0.6154404634736572
+"Piano Sonata No. 32 in C Minor, Op. 111: II. Arietta. Adagio molto semplice e cantabile",Ludwig van Beethoven,Beethoven: The Complete Piano Sonatas,beta,2022,0.39916507735418433,0.7519618214763215,0.575563449415253
+Bol√©ro,Trio X of Sweden,Tr√§umerei,alpha,2019,0.2463693895870736,0.9943240604980295,0.6203467250425515
+√î Solitude,Rosemary Standley,Birds On a Wire,alpha,2019,0.2407224646175219,0.9892777527657942,0.6150001086916581
+Probier's mal mit Gem√ºtlichkeit,Quadro Nuevo,Probier's mal mit Gem√ºtlichkeit,alpha,2019,0.25691739402875696,0.553282174419295,0.4050997842240259
+Akiwowo (Ah-Key-Woh-Woh),Babatunde Olatunji,Drums Of Passion,gamma,2019,0.22655844155844157,0.7946570832733248,0.5106077624158832
+The Heart of a Child,Enrico Pieranunzi,Something Tomorrow,beta,2025,0.4188298938491572,0.9997727821255308,0.709301337987344
+Bim Bom,Morten Ankarfeldt,Cad√™ncia Verde e Amarela,alpha,2019,0.252202265748581,0.7491655130655258,0.5006838894070534
+And I Love her,Brad Mehldau,Mon chien Stupide (Bande originale du film),beta,2025,0.9975245965642894,0.9998155574602289,0.9986700770122592
+Jenny Wren,Baptiste Trotignon,Chimichurri,alpha,2019,0.2401482152145878,0.9928040754051733,0.6164761453098806
+Plaisir D'Amour,Jacky Terrasson,A Paris,alpha,2019,0.2565454545454545,0.9839202364880285,0.6202328455167415
+Neige,Airelle Besson,Pr√©lude,alpha,2019,0.2647833100983578,0.9834398347928712,0.6241115724456145
+Etude in E Minor,Benedict Larsen,Etude in E Minor,alpha,2019,0.25620607511981136,0.6931781214965045,0.47469209830815795
+You're Everything,Chick Corea,Light As A Feather,alpha,2019,0.24506940033847474,0.7992892422638621,0.5221793213011684
+"""Elgar: Variations on an Original Theme, Op. 36 """"Enigma"""": Variation IX. Nimrod""",Edward Elgar,Elgar: Enigma Variations & Pomp & Circumstance Marches Nos 1-5,alpha,2019,0.2671108567103743,0.9820799579191992,0.6245954073147868
+First Gymnopedie,Eddie Daniels,Beautiful Love: Intimate Jazz Portraits,alpha,2019,0.2523892586566867,0.9963218754445529,0.6243555670506198
+The Girl From Ipanema,Stan Getz,The Girl From Ipanema - The Bossa Nova Years,beta,2023,0.4193152197914734,0.9998877182260114,0.7096014690087424
+Egyptian Fantasy,Vincent Peirani,Belle √âpoque,alpha,2019,0.2647833100983578,0.9920316302449612,0.6284074701716595
+Disse Algu√©m (All Of Me),Jo√£o Gilberto,Brasil,alpha,2019,0.24304545454545454,0.9711464992965778,0.6070959769210161
+"13 Pieces for Piano, Op. 76: II. Etude",Jean Sibelius,Finlandia: Finland Independence Day,beta,2025,0.9991666666666668,0.9929863034100624,0.9960764850383645
+Moon Over Bourbon Street,Sting,The Dream Of The Blue Turtles,alpha,2019,0.25106245935752375,0.9590140451228024,0.605038252240163
+A Single Spark,Harry Manx,Faith Lift,alpha,2019,0.25203567204085264,0.9579520743736457,0.6049938732072492
+Tour de France (Etape 2) - 2009 Remaster,Kraftwerk,Tour de France (2009 Remaster),alpha,2019,0.23711925287356322,0.9522664029966539,0.5946928279351086
+Liquid Coincidence 1,Klaus Schulze,Farscape,alpha,2019,0.2321420048120692,0.9874818445474247,0.609811924679747
+Le sud,Alain Bashung,Osez Bashung,alpha,2019,0.22824999999999998,0.9708348119164064,0.5995424059582032
+Movements Of A Visionary - Remastered 2018,Tangerine Dream,Phaedra (Deluxe Version),alpha,2019,0.21444555504240867,0.9829126399878827,0.5986790975151457
+River Man,Lizz Wright,Freedom & Surrender,delta,2019,0.23006701294543938,0.9626427072465495,0.5963548600959945
+Little Melody,Bir√©li Lagr√®ne,Solo Suites,alpha,2019,0.25806213572587194,0.845834828223444,0.551948481974658
+Mountain King Cha Cha,Joachim Horsley,Mountain King Cha Cha,beta,2023,0.4014533191130319,0.9824201245747842,0.6919367218439081
+Autumn Leaves,Lars Danielsson,Summerwind,beta,2025,0.9970150273224044,0.9990145365077011,0.9980147819150528
+Happy,Trio SR9,Happy,gamma,2019,0.22137222325928693,0.7395970474649249,0.48048463536210595
+You Look Good To Me,Oscar Peterson,Work From Home with Oscar Peterson,alpha,2019,0.2438744056907782,0.988654702604615,0.6162645541476965
+Kembezbathur,Vlashent Sata,Hana,beta,2021,0.9941778806282696,0.9956775663443042,0.9949277234862869
+Les valseuses,Didier Lockwood,3 Original Album Classics,alpha,2019,0.25004246651015055,0.9927118451773794,0.621377155843765
+Part One - Airborn,Mike Oldfield,Platinum,gamma,2019,0.5600964782653365,0.9783496573734576,0.769223067819397
+Der Hauch des Lebens - Pt. 5,Klaus Schulze,Der Hauch des Lebens - Pt. 5,alpha,2019,0.24085654854792107,0.8017389372596989,0.52129774290381
+"""Mannix - From """"Mannix"""" Soundtrack""",Lalo Schifrin,Mannix (Themes From The Original Score Of The Paramount Television Show),alpha,2019,0.23464170590646996,0.8993487070163713,0.5669952064614207
+Konda,Miles Davis,Directions,alpha,2019,0.24384759199002004,0.9572818529174757,0.6005647224537478
+"Eh, Mushroom, Will You Mush My Room?: Chrysler",Dashiell Hedayat,Obsolete,alpha,2019,0.22307363883581474,0.9655955134430269,0.5943345761394208
+"12 Etudes For Piano, Op. 8: No. 12 - Alternative Version (WoO 22)",Alexander Scriabin,Scriabin - Nuances,alpha,2019,0.25557199118941215,0.9939065408777962,0.6247392660336042
+Passacaglia,Lars Danielsson,Liberetto II,beta,2025,0.42080271257077484,0.9971275944327734,0.7089651535017741
+Autumn Leaves,Eva Cassidy,Songbird 20,alpha,2019,0.2486176912814275,0.9754603647985991,0.6120390280400133
+Junk Funk - Live,Uzeb,R3UNION LIVE,alpha,2019,0.23720226574858103,0.9846234724443487,0.6109128690964648
+I Have Been In You,Frank Zappa,Sheik Yerbouti,alpha,2019,0.23682363883581473,0.5750316147911505,0.4059276268134826
+Rose rouge,St Germain,Tourist (Remastered),alpha,2019,0.2516545519995137,0.8510302705436876,0.5513424112716007
+Peace Invocation (feat. Charles Lloyd),Gerald Clayton,Peace Invocation,alpha,2019,0.25707999286872907,0.8378203519227176,0.5474501723957234
+Como Siento Yo,Ruben Gonzalez,Introducing,alpha,2019,0.26224153138395945,0.9935906329992167,0.6279160821915881
+Tristezas De Um Viol√£o - 2003 Remaster,Garoto,"Garoto, O Genio Das Cordas",beta,2025,0.9710805890046105,0.9998034873272558,0.9854420381659331
+"6 Stucke, Op. 32: 6 Pieces, Op. 32: No. 3. Rustle of Spring",Christian Sinding,"Sinding, C.: Violin and Piano Music",alpha,2019,0.2635748647172928,0.9875754332624916,0.6255751489898922
+Pause,The Art Of Noise,The Seduction Of Claude Debussy,alpha,2019,0.25019411759085597,0.9788461496338691,0.6145201336123625
+"Sea, Sex And Sun - Remix",Serge Gainsbourg,"Sea, Sex And Sun (Remix)",gamma,2019,0.23049678341672625,0.8635375023733296,0.5470171428950279
