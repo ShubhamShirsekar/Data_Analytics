@@ -1,0 +1,50 @@
+
+QUALITY VALIDATION & CONFIDENCE ANALYSIS REPORT:
+================================================
+
+PREDICTION CONFIDENCE:
+---------------------
+- Overall Mean Confidence: 0.6273
+- User Prediction Mean: 0.3423
+- Year Prediction Mean: 0.9123
+
+CONFIDENCE DISTRIBUTION:
+-----------------------
+- Very High (0.85-1.0): 9 songs (9.0%)
+- High (0.7-0.85): 10 songs
+- Medium (0.5-0.7): 72 songs
+- Low (<0.5): 9 songs (9.0%)
+
+DATA INTEGRITY:
+---------------
+- Duplicate songs: 1169 (expected for multi-user)
+- Missing values: None
+- Invalid years: None
+- Invalid users: None
+- Confidence range: Valid
+
+RECONSTRUCTION QUALITY:
+-----------------------
+- Total songs: 3591
+- Labeled: 3491 (97.2%)
+- Predicted: 100 (2.8%)
+- Mean quality score: 0.9929
+- Playlists analyzed: 35
+
+FLAGGED FOR REVIEW:
+-------------------
+- Low confidence predictions: 9 songs
+- Very low confidence: 0 songs
+- Lowest quality playlist: alpha - 2019 (score: 0.829)
+
+FILES GENERATED:
+----------------
+- Low confidence list: low_confidence_predictions.csv
+
+OVERALL ASSESSMENT:
+-------------------
+✓ Data integrity validated
+✓ Confidence metrics tracked
+✓ Quality scores calculated
+⚠ Review low confidence predictions
+✓ VALIDATION PASSED - RECONSTRUCTION QUALITY ACCEPTABLE
