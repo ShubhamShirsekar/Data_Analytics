@@ -63,6 +63,30 @@ Welcome to my Banking, Financial Services & Insurance (BFSI) analytics portfolio
   - Insurance provider performance and cost optimization
 - **Data Attribution:** Dataset by [Prasad Patil](https://www.kaggle.com/prasad22) on Kaggle
  
+### Day 5: Samsung Mobile Sales Analytics
+
+- **File:** `Day5_SamsungSales.ipynb`
+- **Dataset:** [Samsung Mobile Sales Dataset](https://www.kaggle.com/datasets/datatechexplorer/samsung-mobile-sales-dataset) – 1,000 rows
+- **Domain:** Mobile Sales & Market Analytics
+- **Modules Covered:**
+  - Cohort Analysis & Product Lifetime Value (customer retention and revenue trends)
+  - Temporal Affinity Analysis (revenue-based behavioral segmentation)
+  - Geospatial Sales Analysis (regional sales patterns using Choropleth maps)
+  - Temporal Choropleth Visualization (time-lapse insights on evolving market performance)
+
+- **Skills Demonstrated:**
+  - Advanced cohort-based segmentation for customer and product insights
+  - Revenue lifecycle modeling and value prediction
+  - Temporal data analysis combining time and geography dimensions
+  - Choropleth and geospatial visualization using Plotly and GeoPandas
+Insights-driven storytelling using advanced analytics methods in Colab
+- **Key Insights:**
+  - Identified high-value customer cohorts with strong retention over multiple months
+  - Revenue spikes align with major Samsung flagship releases and regional marketing events
+  - North America and Southeast Asia emerged as top revenue-contributing zones
+  - Geospatial time-lapse visualizations reveal evolving sales concentration patterns
+  - Developed framework for integrating lifetime value analytics with regional performance data
+- **Data Attribution:** Dataset curated from [Kaggle](https://www.kaggle.com/datasets/datatechexplorer/samsung-mobile-sales-dataset) and analyzed by Shubham Shirsekar
   
 ## About Me
 Data Analytics student at KEDGE Business School.
