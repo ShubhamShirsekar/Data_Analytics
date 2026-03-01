@@ -126,7 +126,7 @@ The analysis demonstrates that while both strategies can generate substantial re
 MIT License
 
 ## Author
-[Your Name]
+Shubham Shirsekar
 
 ## Acknowledgments
 - Bitcoin historical data provided by Kaggle user mczielinski
